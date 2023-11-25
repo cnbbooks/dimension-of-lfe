@@ -4,7 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "The Dimension of LFE"
-description = "A Magical Multiverse Adventure"
+description = "A Magical Multiverse Distributed Systems Adventure"
 
 [build]
 build-dir = "book"

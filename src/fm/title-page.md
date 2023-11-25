@@ -1,5 +1,7 @@
 # The DIMENSION of LFE
 
+## _A Magical Multiverse Distributed Systems Adventure_
+
 <br/>
 <br/>
 <br/>

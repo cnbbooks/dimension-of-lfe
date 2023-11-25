@@ -1,6 +1,6 @@
 # The Dimension of LFE
 
-*A Magical Multiverse Adventure*
+*A Magical Multiverse Distributed Systems Adventure*
 
 **Note**: This book is a long-term project and a work in progress.
 
