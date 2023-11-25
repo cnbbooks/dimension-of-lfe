@@ -63,3 +63,15 @@
 * [Forest](./forest/README.md)
   * [The multiverse connection]() - Worlds talking to worlds
   * [Adding someone else's game to yours]()
+
+* [Conclusion]()
+
+--------------------
+
+[Glossary](./glossary.md)
+
+[Feedback](feedback.md)
+
+--------------------
+
+[Built with mdBook](redirects/mdbook.html)
